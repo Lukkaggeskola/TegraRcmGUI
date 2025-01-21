@@ -33,7 +33,7 @@ For other platforms, you can use :
 - [NXBoot](https://mologie.github.io/nxboot/) (OS X, iOS)
 - [JTegraNX](https://github.com/dylwedma11748/JTegraNX) (Windows, OS X, GNU/Linux)
 - [NXLoader](https://github.com/DavidBuchanan314/NXLoader) (Android)
-- [Web Fusée Launcher](https://fusee-gelee.firebaseapp.com/) (Cross-platform, only works with Chrome)
+- [Web Fusée Launcher](https://webrcm.github.io) (Cross-platform, only works with Chrome)
 
 ## Issue / Suggestion
 Please open new [issue](https://github.com/eliboa/TegraRcmGUI/issues) to report a bug or submit a suggestion.   
